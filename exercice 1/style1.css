@@ -1,0 +1,18 @@
+*{ 
+    text-align: center; 
+}
+body{
+    background-color: rgb(182, 235, 240);
+}
+h1{
+    font-family: 'Piedra', cursive;
+    
+}
+li{
+    font-family: 'Courgette', cursive;
+    text-align: left;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+}

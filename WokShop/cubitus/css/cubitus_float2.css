@@ -1,0 +1,86 @@
+.c1{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid black;
+    margin: 0.2em;
+    /* display: inline-block; */
+    float: left;
+    text-align: center;
+    border-radius: 10% 30% 50% 70%;
+    font-size: 120%;
+    color: rgb(10, 10, 10);
+}
+.c1{
+    background-color: #4d8a52;
+}
+.c2{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid black;
+    margin: 0.2em;
+    /* display: inline-block; */
+    float: left;
+    text-align: center;
+    border-radius: 5px 160px / 160px;
+    font-size: 120%;
+    color: rgb(10, 10, 10);
+}
+.c2{
+    background-color: rgb(93, 248, 248);
+}
+.c4{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid black;
+    margin: 0.2em;
+    /* display: inline-block; */
+    float: left;
+    text-align: center;
+    border-radius: 50% ;
+    font-size: 120%;
+    color: rgb(10, 10, 10);
+}
+.c4{
+    background-color: turquoise;
+}
+.c5{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid black;
+    margin: 0.2em;
+    /* display: inline-block; */
+    float: left;
+    text-align: center;
+    border-radius: 10% 25%;
+    font-size: 120%;
+    color: 20px 80px /110px;
+
+}
+
+.c5{
+    background-color: rgb(243, 155, 140);
+}
+
+.c6{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid black;
+    margin: 0.2em;
+    /* display: inline-block; */
+    float: left;
+    text-align: center;
+    border-radius: 10% 25%;
+    font-size: 120%;
+    color: 20px 80px /110px;
+}
+.c6{
+    background-color: rgb(148, 18, 18);
+}
+.clear{
+    clear: both;
+}
+.empty{
+    height: 13em;
+    width: 13em;
+    float: left;
+}

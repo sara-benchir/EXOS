@@ -1,0 +1,71 @@
+*{
+    font-family: fantasy;
+}
+
+body{
+    width: 20%;
+    margin: auto;
+    background-color: rgb(210, 224, 250);
+}
+table{
+    border:4px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    margin: 25px;
+}
+thead,tfoot{
+    background-color: rgb(253, 251, 251);
+    border:2px solid rgb(255, 255, 255);
+}
+tbody{
+    border: 3px solid rgb(2, 2, 2)
+}
+th{
+    border: 1px dotted black;
+    padding: 4px; 
+    width: 25%;
+}
+td{
+    font-size: 100%;
+    border: 1px dotted black;
+    text-align: center;
+    padding: 5px;
+}
+td:first-child{
+    text-align: left;
+    background-color: white;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(251, 251, 251);
+}
+th.black{
+    background-color: black;
+}
+td.black{
+    background-color: black;
+}
+td.brown{
+    background-color: rgb(61, 40, 32);
+}
+td.beige{
+    background-color: rgb(219, 153, 127);
+}
+td.beige2{
+    background-color: rgb(141, 119, 119);
+}
+td.green{
+    background-color: rgb(37, 63, 37);
+}
+td.cremy{
+    background-color: rgb(243, 204, 172);
+}
+td.newBrown{
+    background-color: rgb(104, 67, 60);
+}
+td.yellow{
+    background-color: rgb(190, 168, 40);
+}
+td.chocolat{
+    background-color: rgb(114, 78, 52);
+}
